@@ -1,4 +1,4 @@
-# Como Submeter as respostas
+## Como Submeter as respostas
 
 - Aqui serão documentadas as respostas do Projeto 
 - O mesário abrirá uma "issue" com a uma pergunta por vez, conforme as perguntas são apresentadas aos participantes durante a rodada.
@@ -7,8 +7,8 @@
 - As perguntas de uma mesma rodada ficarão em uma mesma "issue" como "tarefas a serem executada".
 
 
-# Como usar
-- 
+## Como usar
+
 - Clone esse repositório
 - A partir da branch "main" crie uma branch com o nome "oraculo_[dia-mes-ano]_[seu-nome]" substituindo o conteudo dentro dos colchetes
 - Altere o "arquivo.md" dentro da pasta "oraculo" que tem nome igual a data do oráculo da rodada
@@ -20,7 +20,7 @@
 - Todo PR precisa ter “label” conforme a classificação da "Issue"
 - Cada PR poderá ter mais que uma label
 
-# O que é obrigatório em todos PRs
+## O que é obrigatório em todos PRs
 
 1. “Problema” onde o conteudo deve ser igual a pergunta do Oráculo, faça referencia a "issue" que está respondendo
 2. “Solução” onde a descrição deve ser resumida em forma de texto para compreendimento geral 
