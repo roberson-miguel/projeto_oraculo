@@ -55,10 +55,18 @@ A ideia é gerar um jogo de perguntas e respostas estimulando um ambiente descon
 - Os participantes não sabem quais são as perguntas e suas classificação até que elas sejam feitas na rodada.
 - O número de participantes é definido pela quantidade de perguntas do Oráculo ou a quantidade de prêmios disponíveis na rodada.
 - Se o Oráculo definiu 5 perguntas e temos apenas 3 prêmios, é preciso escolher duas perguntas para serem removidas.
+<<<<<<< HEAD
+=======
+- Não é uma disputa para quem melhor responde, dos inscrito a gente sorteia um para responder.
+>>>>>>> 6b3b54ebf364d2fca5487d738de6bda9cf2b86d7
 - As rodadas podem variar de acordo com as perguntas e o que os Participantes, O Povo e os Contestadores decidirem da sua continuidade ou não.
 - As perguntas serão reveladas uma a uma, não permitindo que os participantes saibam antecipadamente a íntegra da próxima pergunta.
 - Os participantes inscritos são sorteados um a um para que possam responder a questão na ordem.
 - O participante só poderá responder uma vez na rodada
+<<<<<<< HEAD
+=======
+- O participante poderá ter ajuda de todos presente para resolver a questão
+>>>>>>> 6b3b54ebf364d2fca5487d738de6bda9cf2b86d7
 - Deve ser o mais detalhado possivel o como testar
 - As dicas poderão ser dadas pelo Oráculo a sua vontade a partir de 10 minutos da pergunta realizada.
 - Essas perguntas poderão ser respondidas consultando a plataforma ou o código no github;
