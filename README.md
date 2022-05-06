@@ -21,6 +21,7 @@ A ideia é gerar um jogo de perguntas e respostas estimulando um ambiente descon
 - Pessoa que explica as regras do jogo;
 - Anuncia os brindes;
 - Adiciona os nomes dos participantes na Roleta;
+- Adiciona o participante como colaborar no repositório publico.
 - Gira a roleta;
 - Anuncia o ganhador
 
@@ -62,7 +63,6 @@ A ideia é gerar um jogo de perguntas e respostas estimulando um ambiente descon
 - Deve ser o mais detalhado possivel o como testar
 - As dicas poderão ser dadas pelo Oráculo a sua vontade a partir de 10 minutos da pergunta realizada.
 - Essas perguntas poderão ser respondidas consultando a plataforma ou o código no github;
-- As respostas serão documentadas no repositório "Câmara" em uma branch a ser criada, e cada pergunta será uma “issue”. 
 - Os PR relacionados às "Issues" são aceitos e tem suas “label” conforme a classificação da pergunta. 
 - Os PR poderão ter mais de um label.
 - Todos que estiverem no dia e participarem do processo, respondendo ou contestando poderão receber algum brinde.
@@ -73,7 +73,6 @@ A ideia é gerar um jogo de perguntas e respostas estimulando um ambiente descon
 
 ## Como Submeter as respostas
 
-- Aqui serão documentadas as respostas do Projeto 
 - O mesário abrirá uma "issue" com a uma pergunta por vez, conforme as perguntas são apresentadas aos participantes durante a rodada.
 - O mesário já tem as resposta aceitas informadas pelo Oráculo
 - Assim que as perguntas forem respondidas pelos participantes a "issue" é atualizada pelo mesário com as respostas aceitas 
@@ -102,9 +101,18 @@ A ideia é gerar um jogo de perguntas e respostas estimulando um ambiente descon
 
 Conforme vamos avançando no jogo e vamos criando novos "arquivos.md" na pasta "oraculo" com as nomenclaturas das "label" nos PRs apresentados.
 
-Respostas relacionadas ao projeto oráculo.
+# Respostas já adquiridas
 
-* [Arquivo](oraculo/06_05_2022.md)
+* [O6_05_2022](oraculo/06_05_2022.md)
+
+
+# Rodadas, Participantes e Prêmios
+
+
+|   Rodada   |      Participante -    Área      | Vencedor |          Prêmio    |
+|------------|:--------------------------------:|---------:|-------------------:|
+| 06/05/2022 |  Leticia Oliveira - Eng. Software|  sim     |   Ifood R$ 40,00   |
+
 
 
 
