@@ -21,9 +21,9 @@ A ideia é gerar um jogo de perguntas e respostas estimulando um ambiente descon
 - Pessoa que explica as regras do jogo;
 - Anuncia os brindes;
 - Adiciona os nomes dos participantes na Roleta;
-- Adiciona o participante como colaborar no repositório publico.
+- Adiciona o participante como colaborar no repositório público.
 - Gira a roleta;
-- Anuncia o ganhador
+- Solicita os premios para o RH e informa por email os ganhadores
 
 ## Participantes:
 - Pessoas que ao iniciar o jogo estão são voluntárias para jogar, não sofrendo nenhuma penalização caso não acerte as respostas;
