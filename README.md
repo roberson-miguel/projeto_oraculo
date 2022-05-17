@@ -98,7 +98,7 @@ A ideia é gerar um jogo de perguntas e respostas estimulando um ambiente descon
 
 # Respostas já adquiridas
 
-* [O6_05_2022](oraculo/06_05_2022_01.md)
+* [06_05_2022](oraculo/06_05_2022_01.md)
 * [13_05_2022](oraculo/13_05_2022.md)
 
 
