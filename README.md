@@ -99,6 +99,7 @@ A ideia é gerar um jogo de perguntas e respostas estimulando um ambiente descon
 # Respostas já adquiridas
 
 * [O6_05_2022](oraculo/06_05_2022.md)
+* [13_05_2022](oraculo/13_05_2022.md)
 
 
 # Rodadas, Participantes e Prêmios
@@ -107,6 +108,7 @@ A ideia é gerar um jogo de perguntas e respostas estimulando um ambiente descon
 |   Rodada   |      Participante -    Área      | Vencedor |          Prêmio    |
 |------------|:--------------------------------:|---------:|-------------------:|
 | 06/05/2022 |  Leticia Oliveira - Eng. Software|  sim     |   Ifood R$ 40,00   |
+| 13/05/2022 |  Victor Alexandre - Eng. Software|  sim     |   Ifood R$ 40,00   |
 
 
 
