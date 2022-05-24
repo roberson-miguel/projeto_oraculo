@@ -111,8 +111,8 @@ A ideia é gerar um jogo de perguntas e respostas estimulando um ambiente descon
 |------------|:--------------------------------:|---------:|-------------------:|
 | 06/05/2022 |  Leticia Oliveira - Eng. Software|  sim     |   Ifood R$ 40,00   |
 | 13/05/2022 |  Victor Alexandre - Eng. Software|  sim     |   Ifood R$ 40,00   |
-| 13/05/2022 |  Leticia Oliveira - Eng. Software|  sim     |   Ifood R$ 40,00   |
-| 13/05/2022 |  Leonardo Silva   - Eng. Software|  sim     |   Ifood R$ 40,00   |
+| 20/05/2022 |  Leticia Oliveira - Eng. Software|  sim     |   Ifood R$ 40,00   |
+| 20/05/2022 |  Leonardo Silva   - Eng. Software|  sim     |   Ifood R$ 40,00   |
 
 
 
